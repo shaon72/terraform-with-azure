@@ -1,4 +1,4 @@
-### You can use the below Azure cli commands to set the terraform remote backend
+You can use the below Azure cli commands to set the terraform remote backend
 ``` shell
 #!/bin/bash
 ## The Storage account name must be unique, and the values below should match your backend.tf
